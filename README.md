@@ -1,9 +1,9 @@
 # ModSimPython
-Text and supporting code for Modeling and Simulation in Python
+Text and supporting code for Modeling and Simulation in Python, but with notebook exercises being completed.
 
 You can run the code from the repository in a browser by pressing the Binder button below.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/AllenDowney/ModSimPy/master?filepath=notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfeliz/ModSimPy/master)
 
 
 *Modeling and Simulation in Python* is an introduction to physical modeling using a computational approach.  It is organized in three parts:
